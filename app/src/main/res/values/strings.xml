@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Call Bar App</string>
-    <string name="start_service">Start Service</string>
-    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Включить</string>
+    <string name="stop_service">Выключить</string>
+    <string name="close">Закрыть</string>
+    <string name="no_information">Нет информации</string>
+    <string name="try_to_call">Попробуй позвонить сюда</string>
 </resources>
